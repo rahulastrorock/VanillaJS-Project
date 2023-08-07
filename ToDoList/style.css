@@ -101,3 +101,22 @@ ul li span {
 ul li span:hover {
   background: #edeef0;
 }
+
+.foot {
+  position: fixed;
+  bottom: 0;
+  align-items: center;
+  width: 100%;
+  background: #0e0101;
+  padding: 10px 30px;
+  box-shadow: 0px -2px 10px rgba(0, 0, 0, 0.1);
+}
+.foot p {
+  color: #fff;
+  font-size: 14px;
+  margin-right: 10px;
+  text-align: center;
+}
+a {
+  color: #fff;
+}
